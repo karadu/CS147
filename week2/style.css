@@ -54,25 +54,21 @@
 		}
 		.box {
 			width:100px;
-			float:right;
-			padding:0px;
+			float:left;
+			padding:10px;
 			color:#fff;
 			height:50px;
-			margin:20px;
-			background:#fff;
+			margin:10px;
 			border:3px solid #4889a3;
 		}
 		.box1 {
 			background:#1E3F6E;
 		}
-		.box1 {
-			background:#000;
-		}
 		.box2 {
 			background:#1E5B6E;
 		}
 		.blue {
-		  	color:#ffffff;
+		  color:#ffffff;
 		}
 		.blue {
 		 	color:#003399;

@@ -1,0 +1,8 @@
+
+tools.stanford.edu/phpmyadmin
+
+Username:
+ccs147karadu
+
+Password:
+dekeiqui
